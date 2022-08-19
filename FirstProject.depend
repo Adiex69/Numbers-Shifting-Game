@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1660882291 source:c:\my drive\c++ bootcamp\projects\firstproject\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1660882158 source:c:\my drive\c++ bootcamp\projects\firstproject\name.c
+	<stdio.h>
+	<stdlib.h>
+
+1660882018 source:c:\my drive\c++ bootcamp\projects\firstproject\rules.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1660799831 source:c:\my drive\c++ bootcamp\projects\firstproject\randommatrix.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1660799919 source:c:\my drive\c++ bootcamp\projects\firstproject\reprintmatrxi.c
+
